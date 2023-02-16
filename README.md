@@ -71,6 +71,7 @@ Guides, docs and materials for Python Tutorial
 * Great Learning
 * Termux
 * QPython
+## Thanks for your kind visit !
 ---
 ![Preview](https://avatars.githubusercontent.com/u/111997815?s=96&v=4)
 ![Intro](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Developer:+Dev.Gautam+Kumar)
