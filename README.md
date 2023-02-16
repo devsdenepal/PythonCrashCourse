@@ -2,7 +2,7 @@
 # PythonCrashCourse
 Guides, docs and materials for Python Tutorial
 ------
-  * Intro
+* Intro
 * Setup(Environment)
 * Syntax
 * Comments
@@ -35,10 +35,9 @@ Guides, docs and materials for Python Tutorial
 * Try..Except
 * User Input
 * File handling
- ---
+---
 ![Intro](https://cdn.dribbble.com/users/1418633/screenshots/5106121/hi-dribbble-studiotale.gif)
 ## Learning the fundamentals
----
 * Basic syntax
 * Variables & Data Types
 * Conditionals
@@ -56,14 +55,11 @@ Guides, docs and materials for Python Tutorial
 * File handling
 ---
 ![ILLUST-PROJ](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)           
- ## Working on practicle projects [CLI]
-  ---
- 
-  
- * Generic Converter
- * Calculator
- * Bill Generator
- * Quiz App
+## Working on practicle projects [CLI]
+* Generic Converter
+* Calculator
+* Bill Generator
+* Quiz App
 ## Online learning Platforms
 * W3Schools.com
 * freecodecamp.org
