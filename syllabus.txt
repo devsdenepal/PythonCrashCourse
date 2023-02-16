@@ -1,0 +1,24 @@
+Python -> Learning the fundamentals
+      |             |
+      |             |-> Basic syntax
+      |             |-> Variables & Data Types
+      |             |-> Conditionals
+      |             |-> Operators
+      |             |-> User Input
+      |             |-> Type Casting, Exceptions
+      |             |-> Functions, Builtin Functions
+      |             |-> List, Tuples, Sets, Dictionaries   
+      |             |-> Math in Python
+      |             |-> Classes/Objects
+      |             |-> Inheritance
+      |             |-> Modules
+      |             |-> Dates
+      |             |-> JSON
+      |             |-> File handling
+      |          
+       -> Working on practicle projects [CLI]
+                    |
+                    |-> Generic Converter
+                    |-> Calculator
+                    |-> Bill Generator
+                    |-> Quiz App
