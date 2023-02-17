@@ -1,6 +1,6 @@
 
 ![Python-GIF](https://surfingthecode.com/img/python.gif)
-# PythonCrashCourse
+# Python Crash Course
 Guides, docs and materials for Python Tutorial
 ---
 * Intro
