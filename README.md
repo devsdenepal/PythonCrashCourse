@@ -1,4 +1,4 @@
-
+ 
 ![Python-GIF](https://surfingthecode.com/img/python.gif)
 # Python Crash Course
 Guides, docs and materials for Python Tutorial
